@@ -5,3 +5,5 @@ NPM : 2306202315
 Kelas : PBP F
 
 Hobi : Membaca
+
+Jurusan : Sistem Informasi
